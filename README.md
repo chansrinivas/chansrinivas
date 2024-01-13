@@ -11,7 +11,9 @@
   </div>
   
   <h1>
-  Hi there, I'm Chandana 🙋‍♀️</h1>
+  Hi there, I'm Chandana
+  <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="30px"/>
+  </h1>
   
 </div>
 
