@@ -1,6 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hwZ29zNXpneXpmOXUwbW5wNGo2MXJid2MxMWg0dnczNWJoZDA0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMmCTZsADKuIWQ/giphy.gif" width="200">
   
+  
+  
+  <h1>
+  Hi there, I'm Chandana!
+  <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="40px"/>
+  </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/chansrinivas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,11 +15,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   </div>
-  
-  <h1>
-  Hi there, I'm Chandana
-  <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="40px"/>
-  </h1>
   
 </div>
 
