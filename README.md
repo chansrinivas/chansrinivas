@@ -1,4 +1,5 @@
 ### Hi there, I'm Chandana 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hwZ29zNXpneXpmOXUwbW5wNGo2MXJid2MxMWg0dnczNWJoZDA0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMmCTZsADKuIWQ/giphy.gif" width="200">
 
 <!--
 **chansrinivas/chansrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
